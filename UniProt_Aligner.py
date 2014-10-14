@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
 import urllib2
 from Bio.Align.Applications import ClustalwCommandline
 from Bio import Phylo
